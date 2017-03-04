@@ -1,0 +1,124 @@
+div.nunc, div.proin, div.aen, div.slow, div.broken{
+	height: 50px;
+	width: 160px;
+	float: left;
+	border: 1px solid aqua;
+	margin-top: 10px;
+	margin-left: 30px;
+	padding-top: 10px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-weight: 600;
+	background-color:white;
+	font-size: 18px;
+	
+}
+div.wrapper{
+	height: 73px;
+	width: 610px;
+	background-color: darkgrey;
+	border-radius: 8px;
+}
+
+.wrapper a{
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding-top: 10px;
+	color:cornflowerblue;
+}
+div.tab_1,div.tab_2, div.tab_3, div.tab_4, div.tab_5,div.tab_6, div.tab_7{
+	margin: 15px;
+	text-align: left;
+	font-size: 18px;
+	font-weight: 700;
+	color: darkslategrey;
+	border: 1px solid aqua;
+	height: 40px;
+	width: 220px;
+	background-color:azure;
+	padding-top: 15px;
+	padding-left: 10px;
+}
+div.tab{
+	margin-left: 30px;
+	width: 300px;
+	float: left;
+}
+.tab a{
+	display: block;
+	text-decoration: none;
+    color: darkslategrey;
+}
+div.title{
+	padding-left: 120px;
+	font-size: 18px;
+	font-weight: 700;
+	display: none;
+	color: darkslategrey;
+	
+}
+div.add{
+	height: 40px;
+	width: 110px;
+	border-radius: 8px;
+	border: 1px solid aqua;
+	margin-top: 10px;
+	margin-left: 30px;
+	padding-top: 5px;
+	margin-bottom: 10px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-weight: 600;
+	background-color:azure;
+	font-size: 18px;
+	display: none;
+}
+div.first_head{
+	width: 250px;
+	height: 20px;
+	
+}
+div.tab_data{
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	z-index: 5;
+    margin: 10px;
+	clear: both;
+	border: 1px solid aqua;
+	display: initial;
+	background-color: white;
+	margin-top: 50px;
+	padding: 10px;
+
+}
+div.tab_input{
+	width: 250px;
+	height: 230px;
+}
+div.first_nunc, div.first_proin, div.first_aen, div.first_slow, div.first_broken{
+	display: none;
+	width: 600px;
+	height: 600px;
+	padding: 10px;
+	text-align:justify;
+	color: darkslategrey;
+	
+}
+div.first{
+	width: 600px;
+	height: 600px;
+	float: left;
+	margin-top: 30px;
+	
+}
+div.slow, div.broken, div.first_slow, div.first_broken{
+	display:none;
+}
+
+.a_add{
+	text-decoration: none;
+	text-align: center;
+	color:cornflowerblue;
+}
